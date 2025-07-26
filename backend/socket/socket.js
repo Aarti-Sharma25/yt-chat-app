@@ -1,6 +1,7 @@
 import {Server} from "socket.io";
 import http from "http";
 import express from "express";
+// socket io is just a real time application used to have the real chat 
 
 const app = express();
 
